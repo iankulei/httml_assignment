@@ -1,0 +1,12 @@
+.git
+.gitignore
+*.md
+build/
+android/
+ios/
+macos/
+windows/
+linux/
+.dart_tool/
+.packages
+pubspec.lock
